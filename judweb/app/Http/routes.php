@@ -14,6 +14,4 @@
 Route::get('/', function () {
     return view('hom');
 });
-Route::get('ihome/', function () {
-    return view('ihome');
-});
+
